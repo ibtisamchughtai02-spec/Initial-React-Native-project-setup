@@ -1,4 +1,4 @@
-MyFirstApp/
+/EnvironmentTest/Test1/
 ├── android/ # Android-specific files
 ├── ios/ # iOS-specific files
 ├── node_modules/ # Dependencies
